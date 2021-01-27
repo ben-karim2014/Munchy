@@ -180,7 +180,7 @@ _Major:_ Computer Science
 
 _GitHub:_ https://github.com/ashwin-s-ranade
 
-### Karim Ben
+### Karim Benlghalia
 _Major:_ Computer Science 
 
 _GitHub:_ https://github.com/ben-karim2014
